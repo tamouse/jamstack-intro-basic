@@ -1,0 +1,8 @@
+{
+  "name": "basic",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:tamouse/jamstack-intro-basic.git",
+  "author": "Tamara Temple <tamouse@gmail.com> (https://github.com/tamouse)",
+  "license": "MIT"
+}
