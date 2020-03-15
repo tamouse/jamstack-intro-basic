@@ -1,6 +1,6 @@
 # Issus with building JAMStack example #
 
-I ran into some issues following the steps I could catch in the FeM course on JAMStack into. I like missed something crucial.
+I ran into some issues following the steps I could catch in the FeM course on JAMStack into. I sure I missed something crucial.
 
 Here's what I tried, and how I got it to work.
 
@@ -9,7 +9,7 @@ Here's what I tried, and how I got it to work.
 $ git clone git@github.com:jlengstorf/jamstack-intro.git
 $ cd jamstack-intro/
 $ git fetch
-$ gco start
+$ git checkout start
 $ cd sections/basic/
 $ touch index.html
 $ emacs index.html # create a very basic html doc
